@@ -1,0 +1,31 @@
+.one{
+    background-color: aqua;
+    height: 200px;
+    width: 400px;
+    margin: 5px auto;
+    border: 2px dashed red;
+}
+
+.two{
+    background-color: yellow;
+    height: 200px;
+    width: 400px;
+    margin: 30px auto;
+    border: 2px dashed hotpink red;
+}
+
+.three{
+    background-color: aqua;
+    height: 200px;
+    width: 400px;
+    margin: 30px auto;
+    border: 40px inset blue;
+}
+
+.four{
+    background-color: aqua;
+    height: 200px;
+    width: 400px;
+    margin: 30px auto;
+    border-left: 10px solid black;   
+}
